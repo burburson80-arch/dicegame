@@ -1,0 +1,12 @@
+{
+  "name": "dice-api-game",
+  "version": "1.0.0",
+  "description": "Simple dice game with API and HTML interface",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
